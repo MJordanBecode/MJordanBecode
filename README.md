@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on ems_tablet<br>🌱 I’m currently learning  React, Python, Lua, nodejs with mySql<br>📄 Know about my experiences 7 Month Training Program with Becode School<br>📫 How to reach me masyjordan@gmail.com <br>
-My Projects : 
+🎒 My Projects : 
 <br><br>
 
 
