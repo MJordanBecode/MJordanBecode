@@ -24,7 +24,7 @@
 
 <h2>🏆 GitHub Achievements</h2>
 <div align="center">
-  <img src="https://github.com/MJordanBecode/MJordanBecode/blob/main/github-metrics.svg" alt="Achievements" width="100%">
+  <img src="https://github.com/MJordanBecode/MJordanBecode/raw/main/github-metrics.svg" alt="Achievements" width="100%">
 </div>
 
 
