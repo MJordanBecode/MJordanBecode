@@ -25,9 +25,11 @@
 <!-- GitHub Achievements -->
 <h2>🏆 GitHub Achievements</h2>
 
-<div align="center">
-  <img src="https://github.com/MJordanBecode/MJordanBecode/blob/main/github-metrics.svg" alt="Metrics" width="65%">
-</div>
+<!-- Réduire la taille à 70% de l'original -->
+<img src="https://github.com/MJordanBecode/MJordanBecode/blob/main/github-metrics.svg" alt="Metrics" width="70%">
+
+<!-- Ou avec une largeur fixe -->
+<img src="https://github.com/MJordanBecode/MJordanBecode/blob/main/github-metrics.svg" alt="Metrics" width="700px">
 
 <h2>🏆 My Career Path</h2>
 
