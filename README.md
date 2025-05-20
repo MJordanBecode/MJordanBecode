@@ -24,7 +24,8 @@
 
 <h2>🌸 AniList Manga Favorites & Reading List</h2>
 <div align="center">
-  <img src="https://github.com/MJordanBecode/MJordanBecode/raw/main/metrics.plugin.anilist.manga.svg" alt="AniList Manga Favorites & Reading List" width="100%">
+  <img src="https://github.com/MJordanBecode/MJordanBecode/raw/main/github-metrics.svg" alt="Metrics" />
+
 </div>
 <p align="center" style="font-size:0.9em; margin-top:8px;">
   This section shows my favorite mangas and mangas I'm currently reading from my AniList account.
