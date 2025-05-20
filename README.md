@@ -1,117 +1,149 @@
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWszbHQ3OXFhczg1emljaTF0MmNpcDdzaGdxdWo1NWhvZDMzcWkwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jordan%20Masy&fontSize=80&fontAlignY=35&animation=fadeIn" />
+  
+  <p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Backend+Developer;Software+Developer;C%23+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /></a>
+  </p>
+</div>
 
-<p>💫 About Me:</p>
-<p>🔭 I’m currently working on ems_tablet</p>
-<p>🌱 I’m currently learning  React, Python, Lua, nodejs with mySql</p>
-<p>📄 Know about my experiences 7 Month Training Program with Becode School</p>
-<p>📫 How to reach me masyjordan@gmail.com </p>
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWszbHQ3OXFhczg1emljaTF0MmNpcDdzaGdxdWo1NWhvZDMzcWkwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" />
 
-🎒 My Projects : [Projects](https://github.com/MJordanBecode/Becode) 
+<h2>💫 About Me</h2>
 
+<p>
+  Hello to whoever is reading my GitHub profile! I'm a 24-year-old young programmer just starting out in the field. I'm passionate about <b>video games</b> 🎮, <b>history</b> 📚, <b>anime</b> 🎬, and <b>space</b> 🚀! But above all, I love coding. I might be a junior, but I'm determined in what I do 😎 I hope you like my profile—I've spent a bit of time on it!
+</p>
 
-<h2> 🏆 Compared to my career</h2><br>
-<p>For 7 months, I studied Web Development at Becode.org. I learned the fundamentals of programming with great attention and was able to specialize as a Backend Developer. I learned how to create REST APIs, use the MVC pattern effectively, secure my endpoints, and many other skills!
+<div align="center">
+  <a href="https://github.com/MJordanBecode/Becode">
+    <img src="https://img.shields.io/badge/🎒_My_Projects-4285F4?style=for-the-badge&logoColor=white" alt="My Projects" />
+  </a>
+</div>
 
-After that, I started a new training program with them, this time in Software Development! I'm currently learning C# in all its aspects. I will have a solid foundation to understand the specific features of the language, especially in Object-Oriented Programming (OOP).<p>
 <br>
 
-<!-- Metrics Achievements -->
-<img src="https://metrics.lecoq.io/MJordanBecode?achievements=1&achievements_threshold=B&achievements_display=compact" alt="Achievements" />
+<!-- GitHub Achievements -->
+<h2>🏆 GitHub Achievements</h2>
 
-<h2> 🌐 Socials: </h2>
-
-<div align="left">
-  <table>
-    <tr>
-      <!-- LinkedIn -->
-      <td align="center">
-        <a href="https://www.linkedin.com/in/jordan-masy/" target="_blank" title="LinkedIn - Jordan Masy">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-        </a>
-      </td>
-      <!-- Discord -->
-      <td align="center">
-        <a href="#" target="_blank" title="Discord - nuagegreen">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" style="margin-top:20px" alt="Discord logo" />
-        </a>
-        <div style="font-size: 12px; font-weight: bold; color: #5865F2; margin: 0px;">
-          nuagegreen
-        </div>
-      </td>
-      <!-- Gmail -->
-      <td align="center">
-        <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkHdQpXDxGkwZnzxDxMwJMrXlQJHvxfqJDNGzrpmlBNQVMhFJznqlDwpLmFHzPFxdPNnWQ" target="_blank" title="Envoyer un email">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-
-
-<h2>💻 Tech Stack:</h2>
-<br><br>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-<br><br><br><br>
-
-[![](https://visitcount.itsvg.in/api?id=MJordanBecode&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MJordanBecode&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MJordanBecode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github.com/MJordanBecode/MJordanBecode/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
-<br><br>
+<h2>🏆 My Career Path</h2>
+
+<p>
+  For 7 months, I studied Web Development at Becode.org. I learned the fundamentals of programming with great attention and was able to specialize as a Backend Developer. I learned how to create REST APIs, use the MVC pattern effectively, secure my endpoints, and many other skills!
+</p>
+<p>
+  After that, I started a new training program with them, this time in Software Development! I'm currently learning C# in all its aspects. I will have a solid foundation to understand the specific features of the language, especially in Object-Oriented Programming (OOP).
+</p>
+
+<h2>🎯 Fun Facts & Goals</h2>
+
+<p>⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!</p>
+<p>🎮 Favorite game: The Witcher 3</p>
+<p>📚 Currently reading: Clean Code by Robert C. Martin</p>
+<p>🥅 2024 Goals: Contribute to Open Source projects and build a complete portfolio</p>
+<p>🌱 Learning path: Mastering C# and .NET, then exploring cloud technologies</p>
+
+<h2>🌐 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jordan-masy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: nuagegreen" />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkHdQpXDxGkwZnzxDxMwJMrXlQJHvxfqJDNGzrpmlBNQVMhFJznqlDwpLmFHzPFxdPNnWQ" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<h2>💻 Tech Stack</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nextjs,react,ts,js,nodejs,mongodb,postman,git,mysql,ps,figma&perline=7" />
+</div>
+
+<br>
+
+<!-- Coding Stats Section -->
+<h2>📊 Coding Stats & Metrics</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MJordanBecode&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MJordanBecode&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MJordanBecode&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MJordanBecode&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+<!-- 3D Contribution Calendar -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MJordanBecode&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<br>
+
+<!-- Spotify Section -->
+<h2>🎵 What I'm Listening To</h2>
 
 <div align="center">
   <a href="https://open.spotify.com/user/nuage-green">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nuage-green&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nuage-green&count=5&unique=true" alt="Spotify recently played" />
   </a>
 </div>
-<br><br><br>
+
+<br>
+
+<!-- Contribution Visualizations -->
+<h2>🔥 Contribution Visualizations</h2>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MJordanBecode/MJordanBecode/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MJordanBecode/MJordanBecode/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MJordanBecode/MJordanBecode/output/pacman-contribution-graph.svg">
 </picture>
 
+<div align="center">
+  <i>Generated with <a href="https://abozanona.github.io/pacman-contribution-graph/">abozanona/pacman-contribution-graph</a></i>
+</div>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://github.com/MJordanBecode/MJordanBecode/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<!-- Support Section -->
+<h2>☕ Support My Work</h2>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+<!-- Quote Section -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
 
 <p align="right">
-  <img src="https://profile-counter.glitch.me/MjordanBecode/count.svg?" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/MJordanBecode/count.svg?" alt="Profile Views" />
+  <br>
+  <img src="https://img.shields.io/badge/Last_Updated-May_2024-blue?style=flat-square" />
 </p>
-
-
-
-
-
