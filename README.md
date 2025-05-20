@@ -22,7 +22,11 @@
 
 <br>
 
-<h2>🏆 GitHub Achievements</h2> <div align="center"> <img src="https://github.com/MJordanBecode/MJordanBecode/blob/main/github-metrics.svg" alt="Achievements" width="100%"> </div>
+<h2>🏆 GitHub Achievements</h2>
+<div align="center">
+  <img src="https://github.com/MJordanBecode/MJordanBecode/blob/main/github-metrics.svg" alt="Achievements" width="100%">
+</div>
+
 
 <h2>🏆 My Career Path</h2>
 
