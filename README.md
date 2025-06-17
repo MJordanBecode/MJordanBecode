@@ -16,6 +16,7 @@
 
 Hello to whoever is reading my GitHub profile! I’m a 24-year-old young programmer just starting out in the field. I’m passionate about <span style="color:#FF4500;">🎮 video games</span>, <span style="color:#1E90FF;">📚 history</span>, <span style="color:#FF69B4;">🎬 anime</span>, and <span style="color:#32CD32;">🚀 space</span>! But on the side, I love coding. I might be a junior, but I’m determined in what I do 😎 I hope you like my profile—I’ve spent a bit of time on it haha.
 
+ 🚩[My repositories](https://github.com/MJordanBecode?tab=repositories)
 
 
 ---
