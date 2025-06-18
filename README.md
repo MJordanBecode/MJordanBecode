@@ -62,7 +62,7 @@ Hello to whoever is reading my GitHub profile! I’m a 24-year-old young program
 
   <!-- Discord -->
   <span style="display: flex; flex-direction: column; align-items: center;">
-    <a href="#" target="_blank" title="nuagegreen">
+    <a href="#" target="_blank" title="jordanmasypro">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
     </a>
     <div style="font-size: 12px; font-weight: bold; color: #5865F2; margin-top: 2px;">
