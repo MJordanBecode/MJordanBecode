@@ -41,7 +41,6 @@ Hello to whoever is reading my GitHub profile! I’m a 24-year-old young program
 
 ### 🎯 Fun Facts & Goals
 
-- ⚡ I can solve a Rubik's cube in under 2 minutes.  
 - 🎮 Favorite game: *S4 League*.  
 - 📚 Currently reading: *Clean Code* by Robert C. Martin.  
 - 🥅 2025 Goals: Contribute to open source & build a full-stack portfolio.  
