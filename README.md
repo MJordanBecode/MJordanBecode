@@ -44,7 +44,7 @@ Hello to whoever is reading my GitHub profile! I’m a 24-year-old young program
 - 🎮 Favorite game: *S4 League*.  
 - 📚 Currently reading: *Clean Code* by Robert C. Martin.  
 - 🥅 2025 Goals: Contribute to open source & build a full-stack portfolio.  
-- 🌱 Learning path: Master C#/.NET.
+
 
 ---
 
